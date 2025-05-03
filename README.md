@@ -15,3 +15,7 @@ The dataset doesn’t have any feature representing the credit scores of individ
 5. and 10% weight for “Employment Status”.
 # Usage
 Python, Jupyter Notebook
+# Conclusion
+Credit scoring and segmentation refer to the process of evaluating the creditworthiness of individuals or businesses and dividing them into distinct groups based on their credit profiles. It aims to assess the likelihood of borrowers repaying their debts and helps financial institutions make informed decisions regarding lending and managing credit risk.
+# Contributing
+If you are interested in contributing to the project, please create a fork of the repository and submit a pull request. All contributions are welcome and appreciated.
